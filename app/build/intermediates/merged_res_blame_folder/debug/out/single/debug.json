@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/menu_context_menu.xml.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/menu/context_menu.xml"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/drawable_blood_drop.xml.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/drawable/blood_drop.xml"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/layout_details_donor_requester.xml.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/layout/details_donor_requester.xml"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/drawable_ic_baseline_invert_colors_24.xml.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/drawable/ic_baseline_invert_colors_24.xml"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/font_varela.xml.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/font/varela.xml"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/drawable_ic_baseline_more_vert_24.xml.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/drawable/ic_baseline_more_vert_24.xml"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/drawable_ic_baseline_call_24.xml.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/drawable/ic_baseline_call_24.xml"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/layout_activity_main.xml.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/layout_activity_register_i_i.xml.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/layout/activity_register_i_i.xml"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/layout_activity_dispaly_requests.xml.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/layout/activity_dispaly_requests.xml"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/menu_donors_menu.xml.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/menu/donors_menu.xml"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/mipmap-hdpi_icons.png.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/mipmap-hdpi/icons.png"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/layout_activity_login_screen.xml.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/layout/activity_login_screen.xml"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/drawable_white_to_red.xml.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/drawable/white_to_red.xml"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/layout_activity_display_donors.xml.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/layout/activity_display_donors.xml"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/drawable_ic_baseline_email_24.xml.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/drawable/ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/drawable_square_border.xml.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/drawable/square_border.xml"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/font-v26_varela.xml.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/font-v26/varela.xml"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/drawable-v24_red_to_white.xml.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/drawable-v24/red_to_white.xml"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/layout_activity_register_i.xml.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/layout/activity_register_i.xml"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/font_varela_round.ttf.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/font/varela_round.ttf"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/drawable_ic_baseline_vpn_key_24.xml.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/drawable/ic_baseline_vpn_key_24.xml"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/drawable_ic_baseline_share_24.xml.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/drawable/ic_baseline_share_24.xml"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/layout_activity_register_i_i_i.xml.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/layout/activity_register_i_i_i.xml"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.rakib.bloodbank.app-merged_res-20:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.rakib.bloodbank.app-main-22:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]

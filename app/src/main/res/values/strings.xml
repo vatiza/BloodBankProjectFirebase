@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">BloodBank</string>
+
+    <string name="real_time_db_firebase">https://bloodbank-ef518-default-rtdb.firebaseio.com/</string>
+
+    <array name="blood_groups">
+        <item>A+</item>
+        <item>B+</item>
+        <item>O+</item>
+        <item>AB+</item>
+        <item>A-</item>
+        <item>B-</item>
+        <item>O-</item>
+        <item>AB-</item>
+    </array>
+
+    <array name="division">
+        <item>Dhaka</item>
+        <item>Khulna</item>
+        <item>Chittagong</item>
+        <item>Rajshahi</item>
+        <item>Barisal</item>
+        <item>Mymensingh</item>
+        <item>Rangpur</item>
+        <item>Sylhet</item>
+    </array>
+
+
+</resources>
+
+
